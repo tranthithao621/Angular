@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="disney-pilot/disney-ui-businesslogic/src/main/java"/>
+	<classpathentry kind="src" path="disney-pilot/disney-ui/src/main/content/jcr_root/apps/disney/src/jp.co.disney.aem.cm.DisneyCommon/src/main/java"/>
+	<classpathentry kind="src" path="disney-pilot/disney-ui/src/main/content/jcr_root/apps/disney/src/jp.co.disney.aem.genie.allimport.AllFileImport/src/main/java"/>
+	<classpathentry kind="src" path="disney-pilot/disney-ui/src/main/content/jcr_root/apps/disney/src/jp.co.disney.aem.genie.diffimport.DiffFileImport/src/main/java"/>
+	<classpathentry kind="src" path="disney-pilot/disney-ui/target/classes/apps/disney/src/jp.co.disney.aem.cm.DisneyCommon/src/main/java"/>
+	<classpathentry kind="src" path="disney-pilot/disney-ui/target/classes/apps/disney/src/jp.co.disney.aem.genie.allimport.AllFileImport/src/main/java"/>
+	<classpathentry kind="src" path="disney-pilot/disney-ui/target/classes/apps/disney/src/jp.co.disney.aem.genie.diffimport.DiffFileImport/src/main/java"/>
+	<classpathentry kind="lib" path="disney-pilot/disney-ui/src/main/content/jcr_root/apps/disney/install/disney-ui-businesslogic.jar"/>
+	<classpathentry kind="lib" path="disney-pilot/disney-ui/target/classes/apps/disney/install/disney-ui-businesslogic.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="disney-pilot/disney-ui-businesslogic/target/classes"/>
+</classpath>
